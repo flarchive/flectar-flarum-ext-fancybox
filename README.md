@@ -1,27 +1,36 @@
-# darkle/fancybox (Archive)
+# flectar-flarum-ext-fancybox (Archive)
 
-> **Read-only archive of released versions of darkle/fancybox.** Not for installation: use [Packagist](https://packagist.org/packages/darkle/fancybox) or the [upstream repository](https://github.com/flectar/flarum-ext-fancybox).
+> **Read-only archive of released versions for darkle/fancybox, flectar/flarum-fancybox.** Not for installation: use Packagist or the [upstream repository](https://github.com/flectar/flarum-ext-fancybox).
 
-**19** versions archived · Latest: [`3.0.0`](https://github.com/flarchive/darkle-fancybox/tree/archive/v3.0.0) · License: `MIT` · Flarum: `^2.0`
+**19** versions archived · Latest: [`0.2`](https://github.com/flarchive/flectar-flarum-ext-fancybox/tree/archive/v0.2) · License: `MIT` · Flarum: `^1.0.0`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`darkle/fancybox`](https://packagist.org/packages/darkle/fancybox)
+- [`flectar/flarum-fancybox`](https://packagist.org/packages/flectar/flarum-fancybox)
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `0.2` | 2021-10-03 | `^1.0.0` | [Browse](https://github.com/flarchive/darkle-fancybox/tree/archive/v0.2) |
-| `1.0.0` | 2021-12-13 | `^1.0.0` | [Browse](https://github.com/flarchive/darkle-fancybox/tree/archive/v1.0.0) |
-| `1.0.1` | 2022-03-27 | `^1.0.0` | [Browse](https://github.com/flarchive/darkle-fancybox/tree/archive/v1.0.1) |
-| `1.0.2` | 2022-03-28 | `^1.0.0` | [Browse](https://github.com/flarchive/darkle-fancybox/tree/archive/v1.0.2) |
-| `1.1.0` | 2022-04-02 | `^1.2.0` | [Browse](https://github.com/flarchive/darkle-fancybox/tree/archive/v1.1.0) |
-| `1.1.1` | 2022-05-24 | `^1.2.0` | [Browse](https://github.com/flarchive/darkle-fancybox/tree/archive/v1.1.1) |
-| `1.1.2` | 2022-06-20 | `^1.2.0` | [Browse](https://github.com/flarchive/darkle-fancybox/tree/archive/v1.1.2) |
-| `1.1.3` | 2024-02-13 | `^1.2.0` | [Browse](https://github.com/flarchive/darkle-fancybox/tree/archive/v1.1.3) |
-| `1.1.4` | 2024-09-02 | `^1.2.0` | [Browse](https://github.com/flarchive/darkle-fancybox/tree/archive/v1.1.4) |
-| `2.0.0` | 2024-09-10 | `^1.2.0` | [Browse](https://github.com/flarchive/darkle-fancybox/tree/archive/v2.0.0) |
+| `0.2` | 2021-10-03 | `^1.0.0` | [Browse](https://github.com/flarchive/flectar-flarum-ext-fancybox/tree/archive/v0.2) |
+| `1.0.0` | 2021-12-13 | `^1.0.0` | [Browse](https://github.com/flarchive/flectar-flarum-ext-fancybox/tree/archive/v1.0.0) |
+| `1.0.1` | 2022-03-27 | `^1.0.0` | [Browse](https://github.com/flarchive/flectar-flarum-ext-fancybox/tree/archive/v1.0.1) |
+| `1.0.2` | 2022-03-28 | `^1.0.0` | [Browse](https://github.com/flarchive/flectar-flarum-ext-fancybox/tree/archive/v1.0.2) |
+| `1.1.0` | 2022-04-02 | `^1.2.0` | [Browse](https://github.com/flarchive/flectar-flarum-ext-fancybox/tree/archive/v1.1.0) |
+| `1.1.1` | 2022-05-24 | `^1.2.0` | [Browse](https://github.com/flarchive/flectar-flarum-ext-fancybox/tree/archive/v1.1.1) |
+| `1.1.2` | 2022-06-20 | `^1.2.0` | [Browse](https://github.com/flarchive/flectar-flarum-ext-fancybox/tree/archive/v1.1.2) |
+| `1.1.3` | 2024-02-13 | `^1.2.0` | [Browse](https://github.com/flarchive/flectar-flarum-ext-fancybox/tree/archive/v1.1.3) |
+| `1.1.4` | 2024-09-02 | `^1.2.0` | [Browse](https://github.com/flarchive/flectar-flarum-ext-fancybox/tree/archive/v1.1.4) |
+| `2.0.0` | 2024-09-10 | `^1.2.0` | [Browse](https://github.com/flarchive/flectar-flarum-ext-fancybox/tree/archive/v2.0.0) |
 
-[View all 19 versions](https://github.com/flarchive/darkle-fancybox/tags)
+[View all 19 versions](https://github.com/flarchive/flectar-flarum-ext-fancybox/tags)
 
-Catalog entry: [packages/darkle-fancybox.json](https://github.com/flarchive/archive-index/blob/main/packages/darkle-fancybox.json)
+## Catalog entries
+
+- [`darkle/fancybox`](https://github.com/flarchive/archive-index/blob/main/packages/darkle-fancybox.json)
+- [`flectar/flarum-fancybox`](https://github.com/flarchive/archive-index/blob/main/packages/flectar-flarum-fancybox.json)
 
 ## About this archive
 
