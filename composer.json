@@ -1,0 +1,64 @@
+{
+    "name": "flectar/flarum-fancybox",
+    "description": "Fancybox is a touch enabled and responsive tool for displaying images in a 'lightbox' that floats overtop of web page.",
+    "type": "flarum-extension",
+    "keywords": [
+        "flarum",
+        "extension",
+        "images",
+        "fancybox"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Flectar",
+            "email": "tomas@flectar.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/flectar/flarum-ext-fancybox/issues",
+        "source": "https://github.com/flectar/flarum-ext-fancybox",
+        "forum": "https://discuss.flarum.org/d/29102"
+    },
+    "require": {
+        "flarum/core": "^2.0"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Fancybox",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-images",
+                "backgroundColor": "#00c8b0",
+                "color": "#ffffff"
+            }
+        },
+        "flarum-cli": {
+            "modules": {
+                "githubActions": true,
+                "gitConf": true,
+                "forum": true,
+                "js": true,
+                "css": true,
+                "prettier": true,
+                "typescript": true,
+                "bundlewatch": false,
+                "backendTesting": false,
+                "admin": false,
+                "locale": false
+            }
+        }
+    },
+    "require-dev": {
+        "flarum/phpstan": "^2.0"
+    },
+    "scripts": {
+        "analyse:phpstan": "phpstan analyse",
+        "clear-cache:phpstan": "phpstan clear-result-cache"
+    },
+    "scripts-descriptions": {
+        "analyse:phpstan": "Run static analysis"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
